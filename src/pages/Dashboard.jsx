@@ -42,10 +42,10 @@ export default function Dashboard() {
       >
         <h2>👤 Student Profile</h2>
 
-        <p><strong>Name:</strong> Yashwanth N</p>
-        <p><strong>USN:</strong> 1NC24IS062</p>
-        <p><strong>Department:</strong> Information Science</p>
-        <p><strong>Semester:</strong> 1st Semester</p>
+        <p><strong>Name:</strong> Ram </p>
+        <p><strong>USN:</strong> 1NC24IS060</p>
+        <p><strong>Department:</strong> Information Science and Engineering</p>
+        <p><strong>Semester:</strong> 3rd Semester</p>
       </div>
       <div
   style={{
